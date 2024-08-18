@@ -1,68 +1,49 @@
-# rp2040_pmw3360_PoC_boardƒrƒ‹ƒhƒKƒCƒh
-## •”•i
-### •t‘®‚µ‚Ä‚¢‚é‚à‚Ì
-|–¼Ì|”—Ê|”õl|
+# rp2040_pmw3360_PoC_boardãƒ“ãƒ«ãƒ‰ã‚¬ã‚¤ãƒ‰
+## 1. éƒ¨å“
+### 1-1. ä»˜å±žã—ã¦ã„ã‚‹ã‚‚ã®
+|åç§°|æ•°é‡|å‚™è€ƒ|
 |----|:---:|----|
+|ãƒŸãƒ‰ãƒ«PCB | 1å€‹ | |
+|ãƒˆãƒƒãƒ—PCBãƒ—ãƒ¬ãƒ¼ãƒˆ| 1å€‹  | |
+|ãƒœãƒˆãƒ PCBãƒ—ãƒ¬ãƒ¼ãƒˆ | 1å€‹ | |
+|PMW3360ãƒ–ãƒ¬ã‚¤ã‚¯ã‚¢ã‚¦ãƒˆãƒ¼ãƒœãƒ¼ãƒ‰|1å€‹||
+|ã‚¹ãƒ†ãƒ³ãƒ¬ã‚¹ãƒŸãƒ‹ã‚¢ãƒãƒ¥ã‚¢ãƒ™ã‚¢ãƒªãƒ³ã‚°(3Ã—6Ã—2.5mm)|3å€‹||
+|å…­è§’ãƒŠãƒƒãƒˆ(M3 åŽšã•2.4mm)|3å€‹||
+|(+)ãƒŠãƒ™é ­å°ã­ã˜(M3 10mm)|3å€‹||
+|ãƒˆãƒ©ãƒƒã‚¯ãƒœãƒ¼ãƒ«ã‚±ãƒ¼ã‚¹|1å€‹|ãƒ­ãƒ¼ãƒžã‚¦ãƒ³ãƒˆç‰ˆ|
+|ãƒˆãƒ©ãƒƒã‚¯ãƒœãƒ¼ãƒ«ã‚±ãƒ¼ã‚¹ã‚«ãƒãƒ¼(çˆª)|3å€‹||
+|ãƒˆãƒ©ãƒƒã‚¯ãƒœãƒ¼ãƒ«ã‚±ãƒ¼ã‚¹ã‚«ãƒãƒ¼(å³ãƒªãƒ³ã‚°)|1å€‹||
+|ãƒˆãƒ©ãƒƒã‚¯ãƒœãƒ¼ãƒ«ã‚±ãƒ¼ã‚¹ã‚«ãƒãƒ¼(å·¦ãƒªãƒ³ã‚°)|1å€‹||
+|M2 2.5mmã‚¹ãƒšãƒ¼ã‚µãƒ¼(ARB-2002.5E)|4å€‹|ä¸¸åž‹ä¸­ç©º|
+|M2 3.5mmã‚¹ãƒšãƒ¼ã‚µãƒ¼(ARB-2003.5E)|4å€‹|ä¸¸åž‹ä¸¡ãƒ¡ãƒã‚¸|
+|M2 4mmã‚¹ãƒšãƒ¼ã‚µãƒ¼(ARB-2004E)|5å€‹|ä¸¸åž‹ä¸¡ãƒ¡ãƒã‚¸|
+|M2 10mmã‚¹ãƒšãƒ¼ã‚µãƒ¼(ARB-2010E)|3å€‹|ä¸¸åž‹ä¸¡ãƒ¡ãƒã‚¸|
+|M2 4mmãƒã‚¸|7æœ¬|
+|M2 10mmãƒã‚¸|7æœ¬|
 
-
-|ƒ~ƒhƒ‹PCB | 1ŒÂ | |
-| ƒgƒbƒvPCBƒvƒŒ[ƒg| 1ŒÂ  | |
-| ƒ{ƒgƒ€PCBƒvƒŒ[ƒg | 1ŒÂ | |
-|PMW3360ƒuƒŒƒCƒNƒAƒEƒg[ƒ{[ƒh|1ŒÂ||
-|ƒXƒeƒ“ƒŒƒXƒ~ƒjƒAƒ`ƒ…ƒAƒxƒAƒŠƒ“ƒO(3~6~2.5mm)|3ŒÂ||
-|˜ZŠpƒiƒbƒg(M3 Œú‚³2.4mm)|3ŒÂ||
-|(+)ƒiƒx“ª¬‚Ë‚¶(M3 10mm)|3ŒÂ||
-|ƒgƒ‰ƒbƒNƒ{[ƒ‹ƒP[ƒX|1ŒÂ|ƒ[ƒ}ƒEƒ“ƒg”Å|
-|ƒgƒ‰ƒbƒNƒ{[ƒ‹ƒP[ƒXƒJƒo[(’Ü)|3ŒÂ||
-|ƒgƒ‰ƒbƒNƒ{[ƒ‹ƒP[ƒXƒJƒo[(‰EƒŠƒ“ƒO)|1ŒÂ||
-|ƒgƒ‰ƒbƒNƒ{[ƒ‹ƒP[ƒXƒJƒo[(¶ƒŠƒ“ƒO)|1ŒÂ||
-|M2 2.5mmƒXƒy[ƒT[(ARB-2002.5E)|4ŒÂ|ŠÛŒ^’†‹ó|
-|M2 3.5mmƒXƒy[ƒT[(ARB-2003.5E)|4ŒÂ|ŠÛŒ^—¼ƒƒlƒW|
-|M2 4mmƒXƒy[ƒT[(ARB-2004E)|5ŒÂ|ŠÛŒ^—¼ƒƒlƒW|
-|M2 10mmƒXƒy[ƒT[(ARB-2010E)|3ŒÂ|ŠÛŒ^—¼ƒƒlƒW|
-|M2 4mmƒlƒW|7–{|
-|M2 10mmƒlƒW|7–{|
-
-### ’Ç‰Á‚Å•K—v‚È‚à‚Ì
-|PMW3360DM-T2QU|1ŒÂ|ƒŒƒ“ƒY•t‚«|
-
-
-|–¼Ì|”—Ê|”õl|
+### è¿½åŠ ã§å¿…è¦ãªã‚‚ã®
+|åç§°|æ•°é‡|å‚™è€ƒ|
 |----|:---:|----|
-|PMW3360ƒuƒŒƒCƒNƒAƒEƒg[ƒ{[ƒh|1ŒÂ||
-|PMW3360DM-T2QU|1ŒÂ|ƒŒƒ“ƒY•t‚«|
-|ƒXƒeƒ“ƒŒƒXƒ~ƒjƒAƒ`ƒ…ƒAƒxƒAƒŠƒ“ƒO(3~6~2.5mm)|3ŒÂ||
-|˜ZŠpƒiƒbƒg(M3 Œú‚³2.4mm)|3ŒÂ||
-|(+)ƒiƒx“ª¬‚Ë‚¶(M3 10mm)|3ŒÂ||
-|ƒgƒ‰ƒbƒNƒ{[ƒ‹ƒP[ƒX|1ŒÂ|ƒ[ƒ}ƒEƒ“ƒg”Å|
-|ƒgƒ‰ƒbƒNƒ{[ƒ‹ƒP[ƒXƒJƒo[(’Ü)|3ŒÂ||
-|ƒgƒ‰ƒbƒNƒ{[ƒ‹ƒP[ƒXƒJƒo[(‰EƒŠƒ“ƒO)|1ŒÂ||
-|ƒgƒ‰ƒbƒNƒ{[ƒ‹ƒP[ƒXƒJƒo[(¶ƒŠƒ“ƒO)|1ŒÂ||
-|M2 2.5mmƒXƒy[ƒT[(ARB-2002.5E)|4ŒÂ|ŠÛŒ^’†‹ó|
-|M2 3.5mmƒXƒy[ƒT[(ARB-2003.5E)|4ŒÂ|ŠÛŒ^—¼ƒƒlƒW|
-|M2 4mmƒXƒy[ƒT[(ARB-2004E)|5ŒÂ|ŠÛŒ^—¼ƒƒlƒW|
-|M2 10mmƒXƒy[ƒT[(ARB-2010E)|3ŒÂ|ŠÛŒ^—¼ƒƒlƒW|
-|M2 4mmƒlƒW|7–{|
-|M2 10mmƒlƒW|7–{|
-  
-¶Fƒ[ƒ}ƒEƒ“ƒg  ‰EFƒnƒCƒ}ƒEƒ“ƒg  
+|PMW3360DM-T2QU|1å€‹|ãƒ¬ãƒ³ã‚ºä»˜ã|
+
+å·¦ï¼šãƒ­ãƒ¼ãƒžã‚¦ãƒ³ãƒˆ  å³ï¼šãƒã‚¤ãƒžã‚¦ãƒ³ãƒˆ  
 ![001](https://github.com/kushima8/Reex/assets/58157342/8a78b063-16f9-4286-8d3e-3098f63cdd9f)
 
-¦ˆÈ‰º‚ÌPro Micro‚Å‚Ì‚Ý“®ìŠm”FÏ‚Ý  
-@https://shop.yushakobo.jp/products/pro-micro?variant=42225070768359
+â€»ä»¥ä¸‹ã®Pro Microã§ã®ã¿å‹•ä½œç¢ºèªæ¸ˆã¿  
+ã€€https://shop.yushakobo.jp/products/pro-micro?variant=42225070768359
 
-## PMW3360‚Í‚ñ‚¾•t‚¯ 
+## PMW3360ã¯ã‚“ã ä»˜ã‘ 
 
 ![002](https://github.com/kushima8/Reex/assets/58157342/4637c450-5275-44bb-b1aa-09bb3c98bc29)
 
-¶‚©‚ç  ƒuƒŒƒCƒNƒAƒEƒgƒ{[ƒhAPMW3360AƒŒƒ“ƒY  
+å·¦ã‹ã‚‰  ãƒ–ãƒ¬ã‚¤ã‚¯ã‚¢ã‚¦ãƒˆãƒœãƒ¼ãƒ‰ã€PMW3360ã€ãƒ¬ãƒ³ã‚º  
 
 ![003](https://github.com/kushima8/Reex/assets/58157342/f40630b1-ba37-4f84-9b5e-92b727c7bb9a)
 
-ƒuƒŒƒCƒNƒAƒEƒgƒ{[ƒh‚ÌŠù‚ÉIC‚ª‚Í‚ñ‚¾•t‚¯‚³‚ê‚Ä‚¢‚é¯/‚ð•\‚É‚µA4PIN‚ª2—ñ‚É‚È‚Á‚Ä‚¢‚é•û‚ð¶‘¤‚µ‚Ä‚­‚¾‚³‚¢B
-ƒZƒ“ƒT[ƒ`ƒbƒv‚ÌB/Žš‚ª‘‚©‚ê‚Ä‚¢‚éE/‚ð‰º‚É‚µ‚ÄŠî”Õ‚ÉƒZƒbƒg‚µ‚½‚ ‚ÆA— –Ê‚©‚ç‚Í‚ñ‚¾•t‚¯‚ð‚µ‚Ä‚­‚¾‚³‚¢B
+ãƒ–ãƒ¬ã‚¤ã‚¯ã‚¢ã‚¦ãƒˆãƒœãƒ¼ãƒ‰ã®æ—¢ã«ICãŒã¯ã‚“ã ä»˜ã‘ã•ã‚Œã¦ã„ã‚‹ï½¯/ã‚’è¡¨ã«ã—ã€4PINãŒ2åˆ—ã«ãªã£ã¦ã„ã‚‹æ–¹ã‚’å·¦å´ã—ã¦ãã ã•ã„ã€‚
+ã‚»ãƒ³ã‚µãƒ¼ãƒãƒƒãƒ—ã®B/å­—ãŒæ›¸ã‹ã‚Œã¦ã„ã‚‹E/ã‚’ä¸‹ã«ã—ã¦åŸºç›¤ã«ã‚»ãƒƒãƒˆã—ãŸã‚ã¨ã€è£é¢ã‹ã‚‰ã¯ã‚“ã ä»˜ã‘ã‚’ã—ã¦ãã ã•ã„ã€‚
 
-## ƒP[ƒX‚Ìì¬
+## ã‚±ãƒ¼ã‚¹ã®ä½œæˆ
 
-ƒP[ƒX‚Í“Ë‹N‚Ì‚ ‚é•û‚ª•\‘¤A‚»‚Ì“Ë‹N‚ª2‚Â‚ ‚éE/‚ªãA“Ë‹N‚ª1‚Â‚Ì•û‚ª‰º‚Æ‚È‚è‚Ü‚·B  
-‰‚ß‚Éã‘¤‚ÌƒlƒWs/‚ÉM2 ƒlƒW‚ð
+ã‚±ãƒ¼ã‚¹ã¯çªèµ·ã®ã‚ã‚‹æ–¹ãŒè¡¨å´ã€ãã®çªèµ·ãŒ2ã¤ã‚ã‚‹E/ãŒä¸Šã€çªèµ·ãŒ1ã¤ã®æ–¹ãŒä¸‹ã¨ãªã‚Šã¾ã™ã€‚  
+åˆã‚ã«ä¸Šå´ã®ãƒã‚¸s/ã«M2 ãƒã‚¸ã‚’
