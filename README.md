@@ -7,3 +7,8 @@ Picture (TBD)
 
 ## Build Guide
 Link (TBD)
+
+残りタスク
+･ファームウエア作成
+･ビルドガイド作成
+･頒布準備
