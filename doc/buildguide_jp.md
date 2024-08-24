@@ -68,11 +68,6 @@ PCB裏側からコンスルーを取り付け、ネジにM2 2.5mmスペーサー
 ボトムプレート（アクリル）にネジ（中）でスペーサー（長）を固定します。  
   ![cocot46plus_bg_06_1](https://user-images.githubusercontent.com/88039287/205934015-431b887f-fd0d-40d4-b0bf-02f9964ecb81.jpg)
 
-  ボトムプレート（FR4）をアクリルの裏側（底側）に重ね、ネジ（中）でスペーサー（短）を固定します。  
-  ![cocot46plus_bg_06_2](https://user-images.githubusercontent.com/88039287/205934028-446aadb9-f03d-4a19-ae9d-2ac39559edea.jpg)
-
-  基板上にネジ（短）でスペーサー（長）を固定します。またOLEDもピンソケットに差し込んでおきます。  
-  ![cocot46plus_bg_06_3](https://user-images.githubusercontent.com/88039287/205934032-a689959e-0b9f-4001-9387-ce7409df19cc.jpg)
 
   スイッチプレートと基板を重ね、隅から順番にキースイッチをはめていきます。スイッチの向きに気を付けて、またスイッチの脚が曲がらないように真っすぐに差し込むようにしてください。  
   ![cocot46plus_bg_06_4](https://user-images.githubusercontent.com/88039287/205934037-4123abfe-0369-4e0a-9713-bccfb9d39769.jpg)
