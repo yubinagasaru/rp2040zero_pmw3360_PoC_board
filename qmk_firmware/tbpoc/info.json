@@ -1,0 +1,10 @@
+{
+    "manufacturer": "yubinagasaru",
+    "keyboard_name": "TBPoC",
+    "maintainer": "yubinagasaru",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0001",
+        "vid": "0x5953"
+    }
+}
