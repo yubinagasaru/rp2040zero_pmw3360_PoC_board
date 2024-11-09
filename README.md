@@ -6,4 +6,4 @@ Trackball Proof of Concept board using RP2040 and PMW3360
 
 
 ## Build Guide
-Link (TBD)
+[Link (TBD)](https://github.com/yubinagasaru/rp2040_pmw3360_PoC_board/blob/development/doc/buildguide_jp.md)
