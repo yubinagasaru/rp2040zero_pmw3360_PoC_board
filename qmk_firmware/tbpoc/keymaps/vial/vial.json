@@ -1,0 +1,71 @@
+{
+    "lighting": "none",
+    "customKeycodes": [
+		{"name": "KC_MY_BTN1",
+		 "title": "KC_MY_BTN1",
+		 "shortName": "BTN1"
+		},
+		{"name": "KC_MY_BTN2",
+		"title": "KC_MY_BTN2",
+		 "shortName": "BTN2"
+		},
+		{"name": "KC_MY_BTN3",
+		 "title": "KC_MY_BTN3",
+		 "shortName": "BTN3"
+		},
+		{"name": "KC_MY_SCR",
+		 "title": "KC_MY_SCR",
+		 "shortName": "SCR"
+		},
+		{"name": "KC_TO_CLICKABLE_INC",
+		"title": "KC_TO_CLICKABLE_INC",
+		 "shortName": "C_INC"
+		},
+		{"name": "KC_TO_CLICKABLE_DEC",
+		 "title": "KC_TO_CLICKABLE_DEC",
+		 "shortName": "C_DEC"
+		},
+		{"name": "KC_SCROLL_DIR_V",
+		"title": "KC_SCROLL_DIR_V",
+		 "shortName": "SCR_V"
+		},
+		{"name": "KC_SCROLL_DIR_H",
+		 "title": "KC_SCROLL_DIR_H",
+		 "shortName": "SCR_H"
+		}
+	],
+    "matrix": {
+        "rows": 8,
+        "cols": 8
+    },
+    "layouts": {
+        "keymap": [
+		  [
+		    "0,6",
+		    {
+		      "x": 2
+		    },
+		    "4,1"
+		  ],
+		  [
+		    "1,6",
+		    {
+		      "x": 2
+		    },
+		    "5,1"
+		  ],
+		  [
+		    "2,6",
+		    "2,7",
+		    "6,0",
+		    "6,1"
+		  ],
+		  [
+		    "3,6",
+		    "3,7",
+		    "7,0",
+		    "7,1"
+		  ]
+		]        
+    }
+}
