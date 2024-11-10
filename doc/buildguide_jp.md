@@ -60,7 +60,7 @@ Kushima8さん､ありがとうございます｡
 https://github.com/kushima8/PMW3360/blob/main/documents/buildguide.md
 
 ## 5. 組み上げ
-以下の写真を参考に組み上げていきます｡
+以下の写真を参考に組み上げていきます｡(とても簡略して記載しているので不明点あればDMください｡)
 ![IMG_20241109_225934](https://github.com/user-attachments/assets/0b4a3290-d9a4-4b0e-bede-cc7bcc9d7a8a)
 まず､組み上げたケース下部のネジにミドルPCBにはめ､さらに2.5mmスペーサーを挿入してください｡
 ミドルPCBのソケット側中央部に8つのスルーホールの､右側6個にコンスルー 6P(コンスルー12Pを半分に分割したもの)をはめてください｡
