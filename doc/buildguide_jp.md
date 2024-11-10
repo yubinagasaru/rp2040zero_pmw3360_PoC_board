@@ -67,9 +67,13 @@ https://github.com/kushima8/PMW3360/blob/main/documents/buildguide.md
 ### 2-4. RP2040 Zeroへのファームウェアの書き込みと動作確認
 下記URLからファームウェアのHexファイルをダウンロードして､RP2040 Zeroに書きこんでください｡
 https://github.com/yubinagasaru/rp2040_pmw3360_PoC_board/blob/development/qmk_firmware/tbpoc_vial.uf2
+
 具体的には､RP2040 ZeroBootボタンを押しながらPCに接続し､ポップアップしたウインドウにHexファイルをドラッグドロップすると､書き込まれます｡
 
 ダウンロード後､Vialにアクセスし､Key testerですべてのキーが適切に動作するか確認してください｡
 
-ソースは､下記に格納してあります｡ QMK 0.24.3でコンパイルできることを確認しています｡
+ソースは､下記に格納してあります｡ QMK Vial 0.24.3でコンパイルできることを確認しています｡
 https://github.com/yubinagasaru/rp2040_pmw3360_PoC_board/tree/development/qmk_firmware/tbpoc
+
+バージョン指定してコンパイルをしたい場合､堕落猫さんのGPK FWBuilderをご検討ください｡
+https://github.com/darakuneko/gpk_fwmaker
